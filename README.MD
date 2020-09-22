@@ -1,0 +1,3 @@
+# Terms
+
+1. Branch - A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master .
