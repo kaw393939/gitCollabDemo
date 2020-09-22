@@ -1,4 +1,9 @@
 #Terms 
  
  1. Commit - Creates a new change that compares the previous versions of a file to updated version of the file. 
- To do a commit, you need to add the files that have been edited for the task.Only add the files that have  been edited for the task / commit. 
+ To do a commit, you need to add the files that have been edited for the task.Only add the files that have  been edited for the task / commit.
+ 
+ 2. Clone - A clone  copies a repository 
+ 
+ 3. fork - a fork is a copy of a repository that maintains a link with the origin repository so changes can be sent back to the original repository
+ , even if it is on a different account. this allows people to work on their own repositories and selectivity submit changes back to the original. 
