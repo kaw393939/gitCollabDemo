@@ -12,4 +12,4 @@ To clone a repository means to duplicate and download everything in the reposito
 to the original repository, even if it is on a different account.  This allows people to work on their own repositories 
 and selectively submit changes back to the original.
 
-Forking done
+Forking done the right way with my ucid
